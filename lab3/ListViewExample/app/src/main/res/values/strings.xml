@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="Array_Adapter">Array Adapter</string>
+</resources>
