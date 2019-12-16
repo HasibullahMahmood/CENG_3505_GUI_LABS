@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409356807431",
+    "firebase_url": "https://timeline-39fab.firebaseio.com",
+    "project_id": "timeline-39fab",
+    "storage_bucket": "timeline-39fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409356807431:android:8c038d796b0b3b8e56a9a2",
+        "android_client_info": {
+          "package_name": "com.example.timeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409356807431-qhjs9n7dc4gi6gpmo0d7853nik5584cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timeline",
+            "certificate_hash": "04f9e772cb022feb84bed1b81e8707843cc55433"
+          }
+        },
+        {
+          "client_id": "409356807431-7l0tramr3rbk5fv6b4ositbgmiegvh5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ipObYFXtDW9o3xj52TB9dQxPDe8CAsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409356807431-7l0tramr3rbk5fv6b4ositbgmiegvh5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
